@@ -1,0 +1,10 @@
+Options -Indexes 
+
+
+
+RewriteEngine  on
+
+
+RewriteRule ^style\.css$ style.php [L]
+
+

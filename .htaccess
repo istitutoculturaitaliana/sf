@@ -1,0 +1,21 @@
+Options -Indexes 
+
+
+
+RewriteEngine  on
+
+
+# ROUTER RULES
+
+
+RewriteRule ^$ pages/home/index.php [L]
+RewriteRule ^index$ pages/home/index.php [L]
+RewriteRule ^index\.*$ pages/home/index.php [L]
+
+
+
+RewriteRule ^style\.css$ style.php [L]
+
+
+RewriteRule ^ajax_controller$ ajax_controller.php [L]
+
