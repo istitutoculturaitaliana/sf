@@ -57,18 +57,19 @@ in your document root directory.
      sf.php
      html.js
      browser.php 
+     style.php
      ajax_controller.php
 
      nodes
          home
             view.js
-            style.js
+            style.php
             controller.php
             model.php
       pages
          home
             view.js
-            style.js
+            style.php
             index.php
             controller.php
 
