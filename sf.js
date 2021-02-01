@@ -17,12 +17,12 @@
  * @package SF (Simple Framework)
  * @copyright (C) 2016 Institute of Italian culture (NGO)
  * @see www.istitutoculturaitaliana.org/sf
- * @author Thomas de Vivo <tdvit@mail.com>
+ * @author thomas-topway.it <thomas.topway.it@mail.com>
  * @version 0.1
  * @licence This is an open source software 
  * conceived within the frame of the Institute of 
  * Italian culture (NGO), and originally 
- * implemented by Thomas de Vivo (tdvit@mail.com) 
+ * implemented by Tommaso de Vivo (tdvit@mail.com) 
  * It is published under the following license:
  * everyone can copy, use, modify and redistribute this
  * software provided that every copy of it (including the
